@@ -1,11 +1,10 @@
-# finalproject
+
 
 A new Flutter project.
 
 ## Getting Started
 
--Shimaa Esaeed Elawady Foda
-- Rawan Ahmed Essat ELsherbiny Hassan
+-  with Rawan Ahmed 
 
 This project is a starting point for a Flutter application.
 
